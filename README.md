@@ -94,7 +94,7 @@ UML, Merise
 ## 📫 Get in Touch
 
 - 📧 Email: zeroualnassim4@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your profile link)*  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nassim-zeroual-b6274526a/)) 
 - 🌐 Portfolio (Coming soon)
 
 ---
