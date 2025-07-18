@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zeroual Nassim
 
-🎓 **Computer Science Graduate** — EST Casablanca  
-📘 Currently completing a Bachelor's in **Application Development & Artificial Intelligence**  
+🎓 **Bachelor's Degree in Application Development and Artificial Intelligence** — EST Casablanca  
+
 🌍 Based in Morocco | **UTC+1**
 
 ---
